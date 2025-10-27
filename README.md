@@ -15,8 +15,6 @@ I’m a passionate Backend Developer in training with 1 year of hands-on experie
 
 ---
 
-### 🛠 Tech Stack
-
 ### 🛠 Tech Stack & Tools
 
 | Backend | Database | ORMs / Tools | Cloud & Hosting | Version Control |
