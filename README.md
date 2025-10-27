@@ -29,6 +29,7 @@ I’m a passionate Backend Developer in training with 1 year of hands-on experie
 ---
 
 ### 🐍 Contribution Snake
+
 ![snake gif](https://raw.githubusercontent.com/dannytech-art/dannytech-art/output/github-snake.svg)
 
 --
