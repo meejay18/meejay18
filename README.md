@@ -93,7 +93,8 @@ I aim to contribute to teams and projects by:
 
 ## 🐍 Contribution Activity
 
-![Contribution Snake](https://raw.githubusercontent.com/meejay18/meejay18/output/github-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/meejay18/output/github-snake.svg)
+
 
 ---
 
