@@ -41,30 +41,14 @@ These projects strengthened my understanding of **real-world backend workflows**
 
 ---
 
-## 🛠 Tech Stack & Tools
 
-### Backend
-- Node.js
-- Express.js
+### 🛠 Tech Stack & Tools
 
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### ORMs & Tools
-- Mongoose
-- Sequelize
-
-### Cloud & Deployment
-- Render
-- Vercel
-- Railway
-- Cloudinary
-
-### Version Control
-- Git
-- GitHub
+| Backend | Database | ORMs / Tools | Cloud & Hosting | Version Control |
+|---------|----------|---------------|------------------|------------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) | ![Render](https://img.shields.io/badge/Render-2f2f2f?style=for-the-badge&logo=render&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+|  | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |  | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) |  |
 
 ---
 
@@ -92,7 +76,7 @@ I aim to contribute to teams and projects by:
 
 ## 🐍 Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/meejay18/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/meejay18/meejay18/output/github-snake.svg)
 
 ---
 
