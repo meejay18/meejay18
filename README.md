@@ -23,19 +23,23 @@ I’m driven by **continuous learning**, **resilience**, and a strong desire to 
 
 Here are a few projects that reflect my growth and problem-solving approach:
 
-### 🛒 E-commerce API
-- Designed a RESTful backend for managing products, users, carts, and orders
-- Implemented database relationships and full CRUD functionality
-- Emphasized scalability, clean architecture, and maintainability
+### ShanksTix (Event and Ticketing Application)
+- Contributed to a production event-ticketing platform serving real business needs
+- Built and maintained RESTful APIs using Node.js, Express, TypeScript, and Prisma
+- Worked with relational database design, modular architecture, and secure authentication
+Collaborated within an existing codebase, following team conventions, Git workflows, and code review practices
 
-### ❤️ Love Calculator API
-- Built a simple, well-structured API with clearly defined endpoints
-- Strengthened understanding of routing, request handling, and API responses
+### Atela (Fashion and cloth Production Management System)
+- Architected a multi-tenant backend for managing fashion and cloth production workflows across multiple businesses
+- Designed secure authentication with JWT access/refresh tokens, role-based access control, and tenant isolation
+- Implemented scalable modules for orders, inventory, task management, earnings, notifications, and audit logging
+- Applied modular monolith architecture, event-driven patterns, validation, and clean service-repository separation for maintainability
 
-### 👥 Gas Refill & Delivery Application
-- Developed a backend system for gas refill and delivery operations
-- Implemented user authentication, order tracking, and wallet functionality
-- Applied input validation, structured controllers, and database models
+### RefillExpress (Gas Refill & Delivery Platform)
+- Developed backend services for a gas refill and delivery platform supporting customers, vendors, and delivery operations
+- Built authentication, wallet management, order lifecycle, and delivery tracking features
+- Designed robust database relationships and business logic using Prisma ORM and PostgreSQL
+- Implemented request validation, error handling, and clean API architecture following backend best practices
 
 These projects strengthened my understanding of **real-world backend workflows**, **API design**, and **data management**.
 
