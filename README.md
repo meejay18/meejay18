@@ -51,8 +51,8 @@ These projects strengthened my understanding of **real-world backend workflows**
 | Backend | Database | ORMs / Tools | Cloud & Hosting | Version Control |
 |---------|----------|---------------|------------------|------------------|
 | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
-| ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) | ![Render](https://img.shields.io/badge/Render-2f2f2f?style=for-the-badge&logo=render&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-|  | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |  | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) |  |
+| ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  ![Nest](https://img.shields.io/badge/Nest.js-404D59?style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) | ![Render](https://img.shields.io/badge/Render-2f2f2f?style=for-the-badge&logo=render&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+|  | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |  | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) |  | ![Docker](https://img.shields.io/badge/Docker-3448C5?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -62,7 +62,7 @@ These projects strengthened my understanding of **real-world backend workflows**
 - System design fundamentals
 - Performance optimization
 - Writing more testable and maintainable code
-- DevOps fundamentals
+- DevOps 
 
 I believe **growth comes from consistency**, not shortcuts.
 
@@ -77,22 +77,14 @@ I aim to contribute to teams and projects by:
 - Supporting team goals and delivering real value through clean solutions
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meejay18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meejay18&layout=compact&theme=radical)
-
----
-
-## 📫 Let’s Connect
+## Let’s Connect
 
 I’m always open to learning opportunities, collaboration, and meaningful conversations around backend engineering.
 
-📧 **Email:** digbanmije18@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/mijoghene-digban-462859368](https://www.linkedin.com/in/mijoghene-digban-462859368/)  
-🐙 **GitHub:** https://github.com/meejay18
+**Email:** digbanmije18@gmail.com  
+**LinkedIn:** [linkedin.com/in/mijoghene-digban-462859368](https://www.linkedin.com/in/mijoghene-digban-462859368/)  
+**GitHub:** https://github.com/meejay18
 
 > *“Consistency beats talent when talent doesn’t stay consistent.”*
 
-✨ *Code. Learn. Improve. Repeat.*
+*Code. Learn. Improve. Repeat.*
