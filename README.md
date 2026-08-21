@@ -1,4 +1,4 @@
-# Hi, I’m Digban Mijoghene 👋
+# Hi, I’m Digban Mijoghene 
 
 ### Backend Software Engineer | Node.js & TypeScript | Problem Solver
 
@@ -8,18 +8,18 @@ I’m driven by **continuous learning**, **resilience**, and a strong desire to 
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- Backend developer working primarily with **Node.js, TypeScript, and Express**
+- Backend developer working primarily with **Node.js, TypeScript, Express, Nestjs**
 - Experienced with **MongoDB, PostgreSQL, and MySQL**
 - Built and deployed multiple backend projects from scratch
 - Focused on **clean code, system design, and best practices**
 - Enjoy collaborating, learning from others, and sharing knowledge
-- ⚡ Fun fact: I debug more than I sleep 😄
+- Fun fact: I debug more than I sleep 
 
 ---
 
-## 🔨 Projects & Impact
+## Projects & Impact
 
 Here are a few projects that reflect my growth and problem-solving approach:
 
@@ -46,7 +46,7 @@ These projects strengthened my understanding of **real-world backend workflows**
 ---
 
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 | Backend | Database | ORMs / Tools | Cloud & Hosting | Version Control |
 |---------|----------|---------------|------------------|------------------|
@@ -56,7 +56,7 @@ These projects strengthened my understanding of **real-world backend workflows**
 
 ---
 
-## 📈 What I’m Currently Improving
+## What I’m Currently Improving
 
 - Advanced backend patterns and architecture
 - System design fundamentals
@@ -68,18 +68,13 @@ I believe **growth comes from consistency**, not shortcuts.
 
 ---
 
-## 🤝 How I Want to Contribute
+## How I Want to Contribute
 
 I aim to contribute to teams and projects by:
 - Building reliable and scalable backend systems
 - Solving problems with a calm, structured approach
 - Continuously improving my technical depth
 - Supporting team goals and delivering real value through clean solutions
-
----
-
-## 🐍 Contribution Activity
-![snake gif](https://raw.githubusercontent.com/meejay18/meejay18/output/github-snake.svg)
 
 ---
 
